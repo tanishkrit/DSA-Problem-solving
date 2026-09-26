@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
