@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
