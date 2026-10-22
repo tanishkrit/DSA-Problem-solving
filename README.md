@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0283-move-zeroes) |
+| [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
