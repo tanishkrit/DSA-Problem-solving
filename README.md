@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
@@ -140,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
