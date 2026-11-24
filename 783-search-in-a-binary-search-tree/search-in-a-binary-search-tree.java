@@ -33,16 +33,16 @@ class Solution {
         }
     }
 
-    public void printTree(TreeNode root)
-    {
-        if(root == null)
-        {
-            return;
-        }
+    // public void printTree(TreeNode root)
+    // {
+    //     if(root == null)
+    //     {
+    //         return;
+    //     }
 
-        System.out.print(root.val + " ");
+    //     System.out.print(root.val + " ");
 
-        printTree(root.left);
-        printTree(root.right);
-    }
+    //     printTree(root.left);
+    //     printTree(root.right);
+    // }
 }
