@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0867-transpose-matrix) |
 | [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
@@ -160,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
