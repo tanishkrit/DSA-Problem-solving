@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
