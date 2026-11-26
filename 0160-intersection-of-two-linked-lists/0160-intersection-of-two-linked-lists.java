@@ -1,30 +1,34 @@
-class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB)
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) 
     {
-        ListNode a = headA;
-        ListNode b = headB;
+        ListNode temp = headA;
+        ListNode temp1 = headB;
 
-        while(a != b)
+        while(temp != null)
         {
-            if(a == null)
+            while(temp1 != null)
             {
-                a = headB;
+                if(temp == temp1)
+                {
+                    return temp;
+                }
+                temp1 = temp1.next;
             }
-            else
-            {
-                a = a.next;
-            }
+            temp = temp.next;
 
-            if(b == null)
-            {
-                b = headA;
-            }
-            else
-            {
-                b = b.next;
-            }
+            temp1 = headB;
         }
-
-        return a;
+        return null;
     }
 }
