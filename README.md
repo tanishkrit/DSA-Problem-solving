@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanishkrit/DSA-Problem-solving/tree/master/0867-transpose-matrix) |
